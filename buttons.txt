@@ -1,0 +1,25 @@
+4
+4
+Play long0.png 512 414 bigmacca.ttf 50
+Options long0.png 512 584 bigmacca.ttf 50
+Quit square0.png 900 640 bigmacca.ttf 30
+FracAttak blank0.png 512 175 bigmacca.ttf 90
+4
+Game long0.png 512 300 bigmacca.ttf 50
+Sound long0.png 512 470 bigmacca.ttf 50
+Back square0.png 900 640 bigmacca.ttf 30
+Options blank0.png 512 125 bigmacca.ttf 90
+9
+Back square0.png 900 640 bigmacca.ttf 30
+Game blank0.png 512 125 bigmacca.ttf 90
+Difficulty blank0.png 512 250 bigmacca.ttf 50
+EZ square0.png 212 350 bigmacca.ttf 30
+Normal square0.png 512 350 bigmacca.ttf 30
+Rage square0.png 812 350 bigmacca.ttf 30
+Opponents blank0.png 512 440 bigmacca.ttf 50
+Boxes square0.png 240 540 bigmacca.ttf 30
+FractalTrees square0.png 720 540 bigmacca.ttf 30
+3
+Back square0.png 900 640 bigmacca.ttf 30
+Sound blank0.png 512 125 bigmacca.ttf 90
+Music blank0.png 215 300 bigmacca.ttf 50
